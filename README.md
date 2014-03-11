@@ -2,7 +2,7 @@
 
 [Link to SecTor 2013 Presentation](https://dl.dropboxusercontent.com/u/566560/Running%20at%2099%20percent.pdf)
 
-[Slow/App DoS information and resources](https://gist.github.com/rawdigits/6868177/edit)
+[Slow/App DoS information and resources](https://gist.github.com/rawdigits/6868177)
 
 #### (The documentation is sparse, will improve this next)
 
